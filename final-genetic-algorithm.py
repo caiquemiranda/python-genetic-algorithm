@@ -180,7 +180,7 @@ if __name__ == '__main__':
         valores.append(produto.valor)
         nomes.append(produto.nome)
 
-    tamanho_populacao = 30
+    tamanho_populacao = 4
     limite = 3
     taxa_mutacao = 0.01
     numero_geracoes = 1000
